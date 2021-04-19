@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Toko Bunga Siantar dan Parcel Asry Florist`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Asry Florist`,
+      summary: `081396353338, Kirim Bunga dan Parcel.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Toko Bunga dan Parcel Asry Florist 2021 Harga Terbaru.`,
+    siteUrl: `https://parcelbunga.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `AsryFlorist`,
     },
   },
   plugins: [
