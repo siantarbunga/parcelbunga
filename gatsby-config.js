@@ -38,6 +38,14 @@ plugins: [
       },
     },
   ],
+plugins: [
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        output: `/sitemap.xml`,
+      },
+    },
+  ],
   plugins: [
     `gatsby-plugin-image`,
     {
