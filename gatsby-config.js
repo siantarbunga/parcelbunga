@@ -128,8 +128,7 @@ module.exports = {
     // `gatsby-plugin-offline`,
   ],
 }
-module.exports = {
-  plugins: [
+
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
@@ -139,5 +138,3 @@ module.exports = {
         ],
       },
     },
-  ],
-}
