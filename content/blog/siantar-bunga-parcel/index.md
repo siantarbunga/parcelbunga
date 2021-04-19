@@ -13,4 +13,4 @@ Blog:
 
 Contoh Produk Siantar Bunga dan Parcel Asry Florist
 
-![Parcel Siantar 1](./toko-parcel-1.jpg)
+![Parcel Siantar 1](./toko_parcel_1.jpg)
