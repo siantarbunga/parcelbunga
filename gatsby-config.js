@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Toko Bunga Siantar dan Parcel Asry Florist`,
+    title: `Toko Bunga Siantar dan Parcel Buah Asry Florist`,
     author: {
       name: `Asry Florist`,
       summary: `081396353338, Kirim Bunga dan Parcel.`,
     },
-    description: `Toko Bunga dan Parcel Asry Florist 2021 Harga Terbaru.`,
+    description: `Toko Bunga dan Parcel Buah Asry Florist 2021 Harga Terbaru.`,
     siteUrl: `https://parcelbunga.gatsbyjs.io/`,
     social: {
       twitter: `AsryFlorist`,
@@ -126,5 +126,18 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+  ],
+}
+module.exports = {
+  plugins: [
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          "G-ZDFTR9VGTH", // Google Analytics / GA
+        ],
+      },
+    },
   ],
 }
