@@ -7,6 +7,7 @@ module.exports = {
     },
     description: `Toko Bunga dan Parcel Buah Asry Florist 2021 Harga Terbaru.`,
     siteUrl: `https://parcelbunga.gatsbyjs.io/`,
+    plugins: [`gatsby-plugin-sitemap`],
     social: {
       twitter: `AsryFlorist`,
     },
@@ -35,14 +36,6 @@ plugins: [
           // Avoids sending pageview hits from custom paths
           exclude: ["/preview/**", "/do-not-track/me/too/"],
         },
-      },
-    },
-  ],
-plugins: [
-    {
-      resolve: "gatsby-plugin-sitemap",
-      options: {
-        output: `/sitemap.xml`,
       },
     },
   ],
