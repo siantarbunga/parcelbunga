@@ -1,13 +1,13 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: Toko Parcel Siantar
+date: "2021-04-18T23:46:37.121Z"
+description: "Kirim Parcel Bunga di Siantar Simalungun Sumatera Utara"
 ---
 
-Wow! I love blogging so much already.
+Hp.081396353338 (whatsapp, telpon, sms).
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Selamat datang di blog Toko Parcel Bunga di Siantar Asry Florist murah dan online 24 jam setiap hari.
 
-Yeah, I didn't either.
+([Parcel Bunga](https://tokoparcelpekanbaru.github.io))
+
+Salam dan Terima Kasih.
