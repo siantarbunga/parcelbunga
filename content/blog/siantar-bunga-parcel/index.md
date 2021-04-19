@@ -2,6 +2,7 @@
 title: Siantar Bunga Parcel
 date: "2021-04-17T22:12:03.284Z"
 description: "Siantar Asry Florist Bunga dan Parcel"
+tags: [parcelbunga]
 ---
 
 Hp.081396353338
