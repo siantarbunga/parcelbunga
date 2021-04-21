@@ -156,3 +156,7 @@ plugins: [
     // `gatsby-plugin-offline`,
   ],
 }
+// Gatsby settings for the environment variables
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
